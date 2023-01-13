@@ -5,3 +5,4 @@
 Cześć! Mam na imię Ola. Zdecydowałam się wziąć udział w projekcie, bo lubię wyzwania. 
 
 Moim głównym celem jest nauczyć się czegoś nowego i rozwinąć się zawodowo co pozwoli mi w przebranżowieniu się. Być może w przyszłości połączę nowe umiejętności z dotychczasowym doświadczeniem zawodowym. Myślę, że drzemie we mnie supertester!!👍
+## Subtask 4
