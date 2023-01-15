@@ -10,6 +10,7 @@ scouts-test.futboolkolektyw.pl
 
 **1. Do czego służy aplikacja**
   * baza najważniejszych informacji dot. piłkarzy, meczeczów
+  * 
 **2. Funkcjonalności**
   * możliwość przeszukiwanie wprowadzonych do bazy graczy wg kolumn lub przez wyszukiwarkę (jest w dwóch miejscach)
   * możliwość dodawania meczów do graczy
@@ -17,8 +18,10 @@ scouts-test.futboolkolektyw.pl
   * możliwość eksportu pliku z listą graczy w formacie csv
   * mośliwość wydruku bazy graczy (brak możliwości wyboru układu kolumn) 
   * możliwość zmiany języka na angielski
+  * 
 **3. Wygląd**
   * proste menu bez ozdobników
+  * 
 **4. Intuicyjność**
   * wg. mnie tak, nie miałam problemu z dodaniem kolejnego gracza
 
