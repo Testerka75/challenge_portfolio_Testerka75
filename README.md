@@ -9,16 +9,16 @@ Moim głównym celem jest nauczenie się nowych, do tej pory obcych mi rzeczy, r
 scouts-test.futboolkolektyw.pl
 
 **1. Do czego służy aplikacja**
-  1. baza najważniejszych informacji dot. piłkarzy, meczeczów
-* **Funkcjonalności**
-  1. możliwość przeszukiwanie wprowadzonych do bazy graczy wg kolumn lub przez wyszukiwarkę (jest w dwóch miejscach)
-  2. możliwość dodawania meczów do graczy
-  3. możliwość dodawania raportów do meczu w tym szczegółowych danych dot. grania piłkarza podczas meczu
-  4. możliwość eksportu pliku z listą graczy w formacie csv
-  5. mośliwość wydruku bazy graczy (brak możliwości wyboru układu kolumn) 
-  6. możliwość zmiany języka na angielski
-* **Wygląd**
-  1. proste menu bez ozdobników
-* **Intuicyjność**
-  1. wg. mnie tak, nie miałam problemu z dodaniem kolejnego gracza
+  * baza najważniejszych informacji dot. piłkarzy, meczeczów
+**2. Funkcjonalności**
+  * możliwość przeszukiwanie wprowadzonych do bazy graczy wg kolumn lub przez wyszukiwarkę (jest w dwóch miejscach)
+  * możliwość dodawania meczów do graczy
+  * możliwość dodawania raportów do meczu w tym szczegółowych danych dot. grania piłkarza podczas meczu
+  * możliwość eksportu pliku z listą graczy w formacie csv
+  * mośliwość wydruku bazy graczy (brak możliwości wyboru układu kolumn) 
+  * możliwość zmiany języka na angielski
+**3. Wygląd**
+  * proste menu bez ozdobników
+**4. Intuicyjność**
+  * wg. mnie tak, nie miałam problemu z dodaniem kolejnego gracza
 
