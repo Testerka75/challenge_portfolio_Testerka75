@@ -1,6 +1,6 @@
 # TASK 1 
 ## Subtask 1 
-6/10
+* 6/10
 ## Subtask 3 
 Cześć! Mam na imię Ola. Zdecydowałam się wziąć udział w projekcie, bo lubię wyzwania. 
 
