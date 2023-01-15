@@ -23,4 +23,4 @@ scouts-test.futboolkolektyw.pl
   * proste menu bez ozdobników
   
 **4. Intuicyjność**
-  * wg. mnie tak, nie miałam problemu z dodaniem kolejnego gracza
+  * wg. mnie intuicyjna, nie miałam problemu z dodaniem kolejnego gracza
