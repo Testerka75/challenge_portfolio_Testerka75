@@ -8,7 +8,7 @@ Moim głównym celem jest nauczenie się nowych, do tej pory obcych mi rzeczy, r
 ## Subtask 4
 scouts-test.futboolkolektyw.pl
 
-1 **Do czego służy aplikacja**
+**1. Do czego służy aplikacja**
   1. baza najważniejszych informacji dot. piłkarzy, meczeczów
 * **Funkcjonalności**
   1. możliwość przeszukiwanie wprowadzonych do bazy graczy wg kolumn lub przez wyszukiwarkę (jest w dwóch miejscach)
