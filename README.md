@@ -26,4 +26,4 @@ scouts-test.futboolkolektyw.pl
   * wg. mnie intuicyjna, nie miałam problemu z dodaniem kolejnego gracza
 
 **5. Spostrzeżenia**
-  * przy wypełnianiu ankiety dot. gracza zauważyłam nieprawidłowości typu: można np. wpisywać ujemne kg, wzrost w tys. cm, rok urodzenia np. 1800 czy znaki specjalne i litery w numerze telefonu
+  * podczas wypełniania ankiety dot. gracza zauważyłam nieprawidłowości typu: można np. wpisywać ujemne kg, wzrost w tys. cm, rok urodzenia np. 1800 czy znaki specjalne i litery w numerze telefonu
