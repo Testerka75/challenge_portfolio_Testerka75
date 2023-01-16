@@ -13,7 +13,7 @@ scouts-test.futboolkolektyw.pl
   
 **2. Funkcjonalności**
   * możliwość przeszukiwanie wprowadzonych do bazy graczy wg kolumn lub przez wyszukiwarkę (jest w dwóch miejscach)
-  * możliwość dodawania meczy do graczy
+  * możliwość dodawania meczu do gracza
   * możliwość dodawania raportów do meczu w tym szczegółowych danych dot. gry piłkarza podczas meczu
   * możliwość eksportu pliku z listą graczy w formacie csv
   * mośliwość wydruku bazy graczy (brak możliwości wyboru układu kolumn, w proponowanym układzie baza jest mało czytelna) 
