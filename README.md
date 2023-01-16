@@ -9,14 +9,14 @@ Moim głównym celem jest nauczenie się nowych, do tej pory obcych mi rzeczy, r
 scouts-test.futboolkolektyw.pl
 
 **1. Do czego służy aplikacja**
-  * baza najważniejszych informacji dot. piłkarzy, meczeczów
+  * baza do wprowadzania najważniejszych informacji dot. piłkarzy
   
 **2. Funkcjonalności**
   * możliwość przeszukiwanie wprowadzonych do bazy graczy wg kolumn lub przez wyszukiwarkę (jest w dwóch miejscach)
-  * możliwość dodawania meczów do graczy
-  * możliwość dodawania raportów do meczu w tym szczegółowych danych dot. grania piłkarza podczas meczu
+  * możliwość dodawania meczy do graczy
+  * możliwość dodawania raportów do meczu w tym szczegółowych danych dot. gry piłkarza podczas meczu
   * możliwość eksportu pliku z listą graczy w formacie csv
-  * mośliwość wydruku bazy graczy (brak możliwości wyboru układu kolumn) 
+  * mośliwość wydruku bazy graczy (brak możliwości wyboru układu kolumn, w proponowanym układzie baza jest mało czytelna) 
   * możliwość zmiany języka na angielski
   
 **3. Wygląd**
@@ -26,4 +26,4 @@ scouts-test.futboolkolektyw.pl
   * wg. mnie intuicyjna, nie miałam problemu z dodaniem kolejnego gracza
 
 **5. Spostrzeżenia**
-  * przy wypełnianiu ankiety dot. gracza zauważyłąm nieprawidłowości typu: można wpisywać ujemne kg, wzrost w tys. cm, rok urodzenia np. 1800 czy znaki specjalne i litery w numerze telefonu.
+  * przy wypełnianiu ankiety dot. gracza zauważyłąm nieprawidłowości typu: można wpisywać ujemne kg, wzrost w tys. cm, rok urodzenia np. 1800 czy znaki specjalne i litery w numerze telefonu
