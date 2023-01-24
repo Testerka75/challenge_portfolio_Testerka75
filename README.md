@@ -33,4 +33,4 @@ scouts-test.futboolkolektyw.pl
 ## Subtask 2 
 
 ## Subtask 3
-![Tle Apps](https://youtu.be/OO3FANjwKHY)
+Przypadki testowe piszemy, aby udokumentować w przejrzysty sposób różne możliwości obsłużenia modułów w ramach danej aplikacji. Dobre pokrycie przypadkami testowymi oprogramowania daje nam pewność podczas testów, że nie pominęliśmy żadnej ważnej funkcjonalności. Po zakończeniu testów, na podstawie przypadków testowych możemy budować nasze raporty z wykonanych testów. Poza tym przypadki testowe mogą stać się bardzo dobrym źródłem informacji o aplikacji.
