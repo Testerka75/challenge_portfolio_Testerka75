@@ -27,3 +27,10 @@ scouts-test.futboolkolektyw.pl
 
 **5. Spostrzeżenia**
   * podczas wypełniania ankiety dot. gracza zauważyłam nieprawidłowości typu: można np. wpisywać ujemne kg, wzrost w tys. cm, rok urodzenia np. 1800 czy znaki specjalne i litery w numerze telefonu
+# TASK 2
+## Subtask 1
+
+## Subtask 2 
+
+## Subtask 3
+![The Apps](https://youtu.be/OO3FANjwKHY)
