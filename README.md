@@ -31,6 +31,6 @@ scouts-test.futboolkolektyw.pl
 ## Subtask 1
 https://drive.google.com/drive/folders/1GTUyMu89N-ZnVQYsE5650SxMO0apugqt
 ## Subtask 2 
-
+https://drive.google.com/drive/folders/1tIjodjYNlnURnGqGlFWcqX4CGjc83XnT
 ## Subtask 3
 ***Przypadki testowe*** piszemy, aby udokumentować w przejrzysty sposób różne możliwości obsłużenia modułów w ramach danej aplikacji. Dobre pokrycie przypadkami testowymi oprogramowania daje nam pewność podczas testów, że nie pominęliśmy żadnej ważnej funkcjonalności. Po zakończeniu testów, na podstawie przypadków testowych możemy budować nasze raporty z wykonanych testów. Poza tym przypadki testowe mogą stać się bardzo dobrym źródłem informacji o aplikacji.
