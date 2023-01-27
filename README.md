@@ -9,7 +9,7 @@ Moim głównym celem jest nauczenie się nowych, do tej pory obcych mi rzeczy, r
 :pushpin: https://scouts-test.futbolkolektyw.pl/
 
 **1. Do czego służy aplikacja**
-  * baza do wprowadzania najważniejszych informacji dot. piłkarzy takich jak:
+  * baza do wprowadzania najważniejszych informacji :information_source:	 dot. piłkarzy takich jak:
   * dane osobowe, wzrost, waga
   * kluby sportowe, w których grał
   * mecze, grane pozycje, mocne strony
