@@ -10,8 +10,11 @@ Moim głównym celem jest nauczenie się nowych, do tej pory obcych mi rzeczy, r
 
 **1. Do czego służy aplikacja**
   * baza do wprowadzania najważniejszych informacji :information_source:	 dot. piłkarzy takich jak:
+  
   :point_right: dane osobowe, wzrost, waga
+  
   :point_right: kluby sportowe, w których grał
+  
   :point_right: mecze, grane pozycje, mocne strony
   
 **2. Funkcjonalności**
