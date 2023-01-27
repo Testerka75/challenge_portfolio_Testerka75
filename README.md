@@ -17,7 +17,7 @@ Moim głównym celem jest nauczenie się nowych, do tej pory obcych mi rzeczy, r
   
   :point_right: mecze, grane pozycje, mocne strony
   
-**2. Funkcjonalności**
+**2. Funkcjonalności aplikacji**
   * możliwość przeszukiwanie wprowadzonych do bazy graczy wg kolumn lub przez wyszukiwarkę (jest w dwóch miejscach)
   * możliwość dodawania meczu do gracza
   * możliwość dodawania raportów do meczu w tym szczegółowych danych dot. gry piłkarza podczas meczu
@@ -25,10 +25,10 @@ Moim głównym celem jest nauczenie się nowych, do tej pory obcych mi rzeczy, r
   * mośliwość wydruku bazy graczy (brak możliwości wyboru układu kolumn, w proponowanym układzie baza jest mało czytelna) 
   * możliwość zmiany języka na angielski
   
-**3. Wygląd**
+**3. Wygląd aplikacji**
   * proste menu bez ozdobników
   
-**4. Intuicyjność**
+**4. Intuicyjność aplikacji**
   * wg. mnie intuicyjna, nie miałam problemu z dodaniem kolejnego gracza
 
 **5. Spostrzeżenia**
