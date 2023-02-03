@@ -40,6 +40,8 @@ Moim głównym celem jest nauczenie się nowych, do tej pory obcych mi rzeczy, r
 :pushpin: https://drive.google.com/drive/folders/1tIjodjYNlnURnGqGlFWcqX4CGjc83XnT
 ## Subtask 3
 A komu to potrzebne
+![image](https://user-images.githubusercontent.com/120678932/216619691-200b011d-68ff-4f9b-bf51-0a6ef5c49ae0.png)
+
 :pushpin: https://www.youtube.com/watch?v=OO3FANjwKHY
 
 ***Przypadki testowe*** to różne scenariusze, które piszemy, aby udokumentować w przejrzysty sposób różne możliwości obsłużenia modułów w ramach danej aplikacji. To zbiory danych wejściowych, wstępnych warunków wykonania, oczekiwanych rezultatów i finalnych warunków realizacji stworzone w konkretnym celu bądź dla warunku testowego, jak wykonanie pewnej ścieżki programu lub weryfikacja zgodności z wybranym wymaganiem. Dobre pokrycie przypadkami testowymi oprogramowania daje nam pewność podczas testów, że nie pominęliśmy żadnej ważnej funkcjonalności oraz, że w trakcie normalnego użytkowania ryzyko wystąpienia błędów zostanie ograniczone do absolutnego minimum. Po zakończeniu testów, na podstawie przypadków testowych możemy budować raporty z wykonanych testów. Poza tym przypadki testowe mogą stać się bardzo dobrym źródłem informacji o aplikacji.
