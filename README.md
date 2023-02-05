@@ -52,3 +52,9 @@ A komu to potrzebne
 :pushpin: https://drive.google.com/drive/folders/1GBRyc9g22fgMSliClrSaJmqnEgQkcpxS?hl=pl
 ## Subtask 3
 :pushpin: https://drive.google.com/drive/folders/1Rvlw7SlAlizR64WN4r6ifQvPYxqwz3r3?hl=pl
+# TASK 4
+## Subtask 1
+
+## Subtask 2
+
+## Subtask 3
