@@ -26,10 +26,10 @@ Moim głównym celem jest nauczenie się nowych, do tej pory obcych mi rzeczy, r
   * możliwość zmiany języka na angielski
   
 **3. Wygląd aplikacji**
-  * proste menu bez ozdobników
+  * proste, raczej "toporne" menu bez ozdobników
   
 **4. Intuicyjność aplikacji**
-  * wg. mnie intuicyjna, nie miałam problemu z dodaniem kolejnego gracza
+  * wg. mnie aplikacja dość intuicyjna, posiada proste menu. Nie miałam problemu np. z dodaniem kolejnego gracza, meczu czy raportu. 
 
 **5. Spostrzeżenia**
   * podczas wypełniania ankiety dot. gracza zauważyłam nieprawidłowości typu: można np. wpisywać ujemne kg, wzrost w tys. cm, rok urodzenia np. 1800 czy znaki specjalne i litery w numerze telefonu
