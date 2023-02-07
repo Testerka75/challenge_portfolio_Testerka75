@@ -54,7 +54,10 @@ A komu to potrzebne
 :pushpin: https://drive.google.com/drive/folders/1Rvlw7SlAlizR64WN4r6ifQvPYxqwz3r3?hl=pl
 # TASK 4
 ## Subtask 1
-
+:pushpin: https://drive.google.com/drive/folders/1JbCMw-dSxKOGGMu97fjBqlXLiKX-gYqd?hl=pl
 ## Subtask 2
-
+:pushpin: https://drive.google.com/drive/folders/1llJBv4iKPAgN4sUpj6CmavAv3_RemCzB?hl=pl
 ## Subtask 3
+***Aplikacja OLX***
+
+Aplikacja ma bardzo szerokie zastosowanie. Wykorzystywana jest do sprzedawania, kupowania a także wymiany różnego rodzaju produktów. Czy jest przyjazna dla użytkownika? Właściwie tak. W tym zakresie, jakim ją przetestowałam nie miałam problemu w szybkim zorientowaniu się w nawigacji aplikacji, czy, do czego służą poszczególne przyciski - w każdej kategorii są podkategorie i dodatkowo filtry wyboru. Dość intuicyjna, choć na dzień dzisiejszy zdecydowanie wolę testowa aplikacje internetowe. Może dlatego, że z apkami mobilnymi nie jestem jeszcze zaprzyjaźniona.
