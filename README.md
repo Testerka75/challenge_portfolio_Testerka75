@@ -63,5 +63,19 @@ A komu to potrzebne
 Aplikacja ma bardzo szerokie zastosowanie. Wykorzystywana jest do sprzedawania, kupowania a także wymiany różnego rodzaju produktów. Czy jest przyjazna dla użytkownika? Właściwie tak. W tym zakresie, jakim ją przetestowałam nie miałam problemu w szybkim zorientowaniu się w nawigacji aplikacji, czy, do czego służą poszczególne przyciski - w każdej kategorii są podkategorie i dodatkowo filtry wyboru. Dość intuicyjna, choć na dzień dzisiejszy zdecydowanie wolę testować aplikacje internetowe - zdecydowanie jestem zwolennikiem większych wyświetlaczy :grin:. Ponadto z apkami mobilnymi nie jestem jeszcze zaprzyjaźniona.
 # TASK 5
 ## Subtask 1
+Niektóre z najważniejszych poleceń SQL
+:heavy_check_mark: SELECT - wyodrębnia dane z bazy danych
+:heavy_check_mark:	UPDATE - aktualizuje dane w bazie danych
+:heavy_check_mark:	DELETE - usuwa dane z bazy danych
+•	INSERT INTO - wstawia nowe dane do bazy danych
+•	CREATE DATABASE - tworzy nową bazę danych
+•	ALTER DATABASE - modyfikuje bazę danych
+•	CREATE TABLE - tworzy nową tabelę
+•	ALTER TABLE - modyfikuje tabelę
+•	DROP TABLE - usuwa tabelę
+•	CREATE INDEX - tworzy indeks (wyszukiwania)
+•	DROP INDEX - usuwa indeks
+•	GO – koniec wsadu jednej instrukcji
+
 ## Subtask 2
 ## Subtask 3
