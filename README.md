@@ -68,16 +68,27 @@ Niektóre z najważniejszych poleceń SQL
 :heavy_check_mark: SELECT - wyodrębnia dane z bazy danych
 
 :heavy_check_mark:	UPDATE - aktualizuje dane w bazie danych
+
 :heavy_check_mark:	DELETE - usuwa dane z bazy danych
+
 :heavy_check_mark:	INSERT INTO - wstawia nowe dane do bazy danych
+
 :heavy_check_mark:	CREATE DATABASE - tworzy nową bazę danych
+
 :heavy_check_mark:	ALTER DATABASE - modyfikuje bazę danych
+
 :heavy_check_mark:	CREATE TABLE - tworzy nową tabelę
+
 :heavy_check_mark:	ALTER TABLE - modyfikuje tabelę
+
 :heavy_check_mark:	DROP TABLE - usuwa tabelę
+
 :heavy_check_mark:	CREATE INDEX - tworzy indeks (wyszukiwania)
+
 :heavy_check_mark:	DROP INDEX - usuwa indeks
+
 :heavy_check_mark:	GO – koniec wsadu jednej instrukcji
+
 
 ## Subtask 2
 ## Subtask 3
