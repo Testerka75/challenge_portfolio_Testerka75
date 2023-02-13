@@ -95,3 +95,6 @@ Aplikacja ma bardzo szerokie zastosowanie. Wykorzystywana jest do sprzedawania, 
 :point_right: Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.
 ![image](https://user-images.githubusercontent.com/120678932/218536227-6c0de9fe-dcb7-4156-80de-83f02d967152.png)
 
+:point_right: Wyświetl film, który powstał w 2019 roku.
+![image](https://user-images.githubusercontent.com/120678932/218537479-45ac7458-83f4-4b9d-9a97-c8167867bca9.png)
+
