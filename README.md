@@ -89,8 +89,6 @@ Aplikacja ma bardzo szerokie zastosowanie. Wykorzystywana jest do sprzedawania, 
 
 :heavy_check_mark:	GO – koniec wsadu jednej instrukcji
 
-## Subtask 2
-
 ## Subtask 3
 :point_right: ***Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.***
 
