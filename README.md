@@ -92,43 +92,43 @@ Aplikacja ma bardzo szerokie zastosowanie. Wykorzystywana jest do sprzedawania, 
 ## Subtask 2
 
 ## Subtask 3
-:point_right: Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.
+:point_right: ***Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.***
 
 ![image](https://user-images.githubusercontent.com/120678932/218536227-6c0de9fe-dcb7-4156-80de-83f02d967152.png)
 
-:point_right: Wyświetl film, który powstał w 2019 roku.
+:point_right: ***Wyświetl film, który powstał w 2019 roku.***
 
 ![image](https://user-images.githubusercontent.com/120678932/218539210-93f7d464-299f-4dd9-9fae-abe0f9140644.png)
 
-:point_right: Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem
+:point_right: ***Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem.***
 
 ![image](https://user-images.githubusercontent.com/120678932/218540662-dbff99c7-dac3-4d3e-8da3-945fa0a15392.png)
 
-:point_right: Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$
+:point_right: ***Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$.***
 
 ![image](https://user-images.githubusercontent.com/120678932/218542429-c92d3812-f403-4515-b3ee-194fb8849d8b.png)
 
-:point_right: Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.
+:point_right: ***Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.***
 
 ![image](https://user-images.githubusercontent.com/120678932/218545808-ceeef886-5e6c-4d9e-b1e6-ea413529d17b.png)
 
-:point_right: Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny.
+:point_right: ***Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny.***
 
 ![image](https://user-images.githubusercontent.com/120678932/218547699-ef5654cd-6045-490d-b14d-fe55586d346b.png)
 
-:point_right: Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN.
+:point_right: ***Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN.***
 
 ![image](https://user-images.githubusercontent.com/120678932/218548096-555bef59-87b8-442a-b559-2cd810eb12a2.png)
 
-:point_right: Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.
+:point_right: ***Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.***
 
 ![image](https://user-images.githubusercontent.com/120678932/218548717-cdbc1f1b-3de4-4418-a3e6-3fa0f395e09f.png)
 
-:point_right: Wyświetl dane klienta, który nie ma podanego adresu email.
+:point_right: ***Wyświetl dane klienta, który nie ma podanego adresu email.***
 
 ![image](https://user-images.githubusercontent.com/120678932/218549529-719c2314-a218-4749-98a0-e1ced141d3f6.png)
 
-:point_right: Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.
+:point_right: ***Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.***
 
 ![image](https://user-images.githubusercontent.com/120678932/218551268-0d7fdb42-88c0-4b95-bbd1-55f046fe5baa.png)
 
