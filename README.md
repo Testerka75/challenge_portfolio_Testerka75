@@ -89,10 +89,13 @@ Aplikacja ma bardzo szerokie zastosowanie. Wykorzystywana jest do sprzedawania, 
 
 :heavy_check_mark:	GO – koniec wsadu jednej instrukcji
 
+## Subtask 2
+:+1: zrobione
+
 ## Subtask 3
 :point_right: ***Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.***
 
-![image](https://user-images.githubusercontent.com/120678932/218536227-6c0de9fe-dcb7-4156-80de-83f02d967152.png)
+![image](https://user-images.githubusercontent.com/120678932/219108759-5e4cd440-5a48-4df5-a382-fa5984485f53.png)
 
 :point_right: ***Wyświetl film, który powstał w 2019 roku.***
 
