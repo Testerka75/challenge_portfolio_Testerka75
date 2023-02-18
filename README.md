@@ -165,6 +165,7 @@ Aplikacja ma bardzo szerokie zastosowanie. Wykorzystywana jest do sprzedawania, 
 
 :point_right: ***Wyświetl tytuły filmów, które zostały zakupione, wyświetl tabelę w taki sposób, aby tytuły się nie powtarzały.***
 
+![image](https://user-images.githubusercontent.com/120678932/219898965-2aae32a6-49c9-4b4b-a604-53d99df154fd.png)
 
 ## Subtask 2 ##
 Mój wynik testu na zestaw pytań ECRU z zakresu sylabusa ISTQB to 13 / 15 :ok_hand:
