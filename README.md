@@ -136,6 +136,9 @@ Aplikacja ma bardzo szerokie zastosowanie. Wykorzystywana jest do sprzedawania, 
 # TASK 6 #
 
 ## Subtask 1 ##
+***Ciąg dalszy ćwiczeń z SQL***
+
+:point_right: Popełniłam błąd wpisując nazwisko Ani Miler – wpisałam Muler. Znajdź i zastosuj funkcję, która poprawi mój karkołomny błąd 🙈
 
 ## Subtask 2 ##
 Mój wynik testu na zestaw pytań ECRU z zakresu sylabusa ISTQB to 13 / 15 :ok_hand:
