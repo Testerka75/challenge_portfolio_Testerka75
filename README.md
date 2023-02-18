@@ -151,6 +151,10 @@ Aplikacja ma bardzo szerokie zastosowanie. Wykorzystywana jest do sprzedawania, 
 
 ![image](https://user-images.githubusercontent.com/120678932/219883761-fd36bd0c-7317-4343-96ae-06f8f40743e3.png)
 
+:point_right: ***Na pewno zauważył_ś, że sprzedawca zapomniał wpisać emaila klientce Patrycji. Uzupełnij ten brak wpisując: pati@mail.com***
+
+
+
 
 ## Subtask 2 ##
 Mój wynik testu na zestaw pytań ECRU z zakresu sylabusa ISTQB to 13 / 15 :ok_hand:
