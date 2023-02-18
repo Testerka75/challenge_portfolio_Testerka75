@@ -169,6 +169,14 @@ Aplikacja ma bardzo szerokie zastosowanie. Wykorzystywana jest do sprzedawania, 
 
 :point_right: ***Wyświetl wspólną listę imion wszystkich aktorów i klientów, a wynik uporządkuj alfabetycznie. (Wykorzystaj do tego funkcji UNION)***
 
+![image](https://user-images.githubusercontent.com/120678932/219899293-e12baad3-b393-476d-9cf0-23a65c7a4ee3.png)
+
+:point_right: ***Polskę opanowała inflacja i nasz sklepik z filmami również dotknął ten problem. Podnieś cenę wszystkich filmów wyprodukowanych po 2000 roku o 2,5 $ (Pamiętaj, że dolar to domyślna jednostka- nie używaj jej nigdzie).***
+
+:point_right: ***Wyświetl imię i nazwisko aktora o id 4 i tytuł filmu, w którym zagrał***
+
+
+
 
 ## Subtask 2 ##
 Mój wynik testu na zestaw pytań ECRU z zakresu sylabusa ISTQB to 13 / 15 :ok_hand:
