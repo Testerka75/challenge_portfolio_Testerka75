@@ -153,6 +153,12 @@ Aplikacja ma bardzo szerokie zastosowanie. Wykorzystywana jest do sprzedawania, 
 
 :point_right: ***Na pewno zauważył_ś, że sprzedawca zapomniał wpisać emaila klientce Patrycji. Uzupełnij ten brak wpisując: pati@mail.com***
 
+![image](https://user-images.githubusercontent.com/120678932/219884203-1905b7f7-5aa7-4929-bbf5-36ffd15281eb.png)
+
+![image](https://user-images.githubusercontent.com/120678932/219884228-1982ba96-7561-420e-bd74-48890faa4f1b.png)
+
+:point_right: ***Dla każdego zakupu wyświetl, imię i nazwisko klienta, który dokonał wypożyczenia oraz tytuł wypożyczonego filmu. (wykorzystaj do tego funkcję inner join, zastanów się wcześniej, które tabele Ci się przydadzą do wykonania ćwiczenia).***
+
 
 
 
