@@ -141,11 +141,15 @@ Aplikacja ma bardzo szerokie zastosowanie. Wykorzystywana jest do sprzedawania, 
 
 :point_right: ***Popełniłam błąd wpisując nazwisko Ani Miler – wpisałam Muler. Znajdź i zastosuj funkcję, która poprawi mój karkołomny błąd 🙈***
 
-Zastosowanie zapytania UPDATE
-
 ![image](https://user-images.githubusercontent.com/120678932/219881399-be8d0b9c-f19c-4b78-b545-15a574591d88.png)
+
 ![image](https://user-images.githubusercontent.com/120678932/219881465-1420c4e4-32b9-428f-9db2-de969b264ba0.png)
+
 ![image](https://user-images.githubusercontent.com/120678932/219881484-e37b473f-cdd2-40a0-8b3d-3e4c75719976.png)
+
+:point_right: ***Pobrałam za dużo pieniędzy od klienta, który kupił w ostatnim czasie film o id 4. Korzystając z funkcji join sprawdź, jak ma na imię klient i jakiego ma maila. W celu napisania mu wiadomości o pomyłce fantastycznej szefowej.***
+
+
 
 ## Subtask 2 ##
 Mój wynik testu na zestaw pytań ECRU z zakresu sylabusa ISTQB to 13 / 15 :ok_hand:
