@@ -133,3 +133,10 @@ Aplikacja ma bardzo szerokie zastosowanie. Wykorzystywana jest do sprzedawania, 
 
 ![image](https://user-images.githubusercontent.com/120678932/218551268-0d7fdb42-88c0-4b95-bbd1-55f046fe5baa.png)
 
+# TASK 6 #
+
+## Subtask 1 ##
+
+## Subtask 2 ##
+mój wynik testu na zestaw pytań ECRU z zakresu sylabusa ISTQB.
+13 / 15 :ok_hand:
