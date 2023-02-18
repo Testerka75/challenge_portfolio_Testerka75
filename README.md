@@ -93,6 +93,7 @@ Aplikacja ma bardzo szerokie zastosowanie. Wykorzystywana jest do sprzedawania, 
 :+1: zrobione
 
 ## Subtask 3
+### ***Ćwiczenia z SQL*** ###
 :point_right: ***Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.***
 
 ![image](https://user-images.githubusercontent.com/120678932/219108759-5e4cd440-5a48-4df5-a382-fa5984485f53.png)
@@ -136,7 +137,7 @@ Aplikacja ma bardzo szerokie zastosowanie. Wykorzystywana jest do sprzedawania, 
 # TASK 6 #
 
 ## Subtask 1 ##
-***Ciąg dalszy ćwiczeń z SQL***
+### ***Ciąg dalszy ćwiczeń z SQL*** ###
 
 :point_right: Popełniłam błąd wpisując nazwisko Ani Miler – wpisałam Muler. Znajdź i zastosuj funkcję, która poprawi mój karkołomny błąd 🙈
 
