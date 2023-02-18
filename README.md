@@ -149,6 +149,7 @@ Aplikacja ma bardzo szerokie zastosowanie. Wykorzystywana jest do sprzedawania, 
 
 :point_right: ***Pobrałam za dużo pieniędzy od klienta, który kupił w ostatnim czasie film o id 4. Korzystając z funkcji join sprawdź, jak ma na imię klient i jakiego ma maila. W celu napisania mu wiadomości o pomyłce fantastycznej szefowej.***
 
+![image](https://user-images.githubusercontent.com/120678932/219883761-fd36bd0c-7317-4343-96ae-06f8f40743e3.png)
 
 
 ## Subtask 2 ##
