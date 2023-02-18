@@ -175,6 +175,9 @@ Aplikacja ma bardzo szerokie zastosowanie. Wykorzystywana jest do sprzedawania, 
 
 :point_right: ***Wyświetl imię i nazwisko aktora o id 4 i tytuł filmu, w którym zagrał***
 
+![image](https://user-images.githubusercontent.com/120678932/219900141-1cfcf9d0-c81e-4140-bb91-8eff9d191b09.png)
+
+:point_right: ***A gdzie nasza HONIA!? Dodaj do tabeli customers nową krotkę, gdzie customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email = honia@mail.com oraz pseudonym = Hoa***
 
 
 
