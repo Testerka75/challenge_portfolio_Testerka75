@@ -138,5 +138,4 @@ Aplikacja ma bardzo szerokie zastosowanie. Wykorzystywana jest do sprzedawania, 
 ## Subtask 1 ##
 
 ## Subtask 2 ##
-mój wynik testu na zestaw pytań ECRU z zakresu sylabusa ISTQB.
-13 / 15 :ok_hand:
+Mój wynik testu na zestaw pytań ECRU z zakresu sylabusa ISTQB to 13 / 15 :ok_hand:
