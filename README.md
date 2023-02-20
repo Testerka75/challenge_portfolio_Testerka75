@@ -183,7 +183,8 @@ Aplikacja ma bardzo szerokie zastosowanie. Wykorzystywana jest do sprzedawania, 
 
 :point_right: ***A gdzie nasza HONIA!? Dodaj do tabeli customers nową krotkę, gdzie customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email = honia@mail.com oraz pseudonym = Hoa***
 
-:thinking: :exploding_head:
+![image](https://user-images.githubusercontent.com/120678932/220201253-764fb298-41dd-4a16-9b4e-ce2c6f9f0584.png)
+![image](https://user-images.githubusercontent.com/120678932/220201314-1610b97f-591e-4c72-ab37-2ef09419db60.png)
 
 ## Subtask 2 ##
 Mój wynik testu na zestaw pytań ECRU z zakresu sylabusa ISTQB to 13 / 15 :ok_hand:
